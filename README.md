@@ -5,4 +5,4 @@
 基于NLP（自然语言处理）的中医病案识别与智能问诊系统
 
 ***
-<center>Copyright &copy; 2019 健康大数据实验室</center>
+<p align=center>Copyright &copy; 2019 健康大数据实验室</p>
